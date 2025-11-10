@@ -1,4 +1,4 @@
-mport random
+import random
 
 total_num = 10000
 darts_in_circle = 0
