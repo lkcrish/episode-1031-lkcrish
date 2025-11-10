@@ -1,6 +1,6 @@
 mport random
 
-total_num - 10000
+total_num = 10000
 darts_in_circle = 0
 for i in range(total_num):
     dartx = random.random()
